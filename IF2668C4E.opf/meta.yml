@@ -1,0 +1,81 @@
+id: IF2668C4E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:49:03.151939'
+last_modified: '2022-06-17T12:49:03.151953'
+parser: null
+source_metadata:
+  title: Longevity Series
+  language: en
+  description: 'Texts on the theme of longevity, including ritual practices to accomplish
+    long life (tshe sgrub):'
+  volume:
+    fA5E7:
+      title: The Dhāraṇī of Amitāyus
+      base_file: fA5E7.txt
+      order: 1
+      parent: Canonical Texts
+    fAC48:
+      title: The Sūtra of Boundless Life and Wisdom
+      base_file: fAC48.txt
+      order: 2
+      parent: Canonical Texts
+    f8741:
+      title: 'A Shortcut to the Siddhi of Immortality: Guru Yoga of Union with the
+        Three Deities of Long Life'
+      base_file: f8741.txt
+      order: 3
+      parent: Guru Yoga
+    f8504:
+      title: 'The New Glorious Bestower of Immortality: A Long-Life Practice and Empowerment
+        that Unites the Oral, Treasure and Visionary Teachings'
+      base_file: f8504.txt
+      order: 4
+      parent: Practices
+    f9164:
+      title: The Sādhana and Empowerment for the Extremely Close Lineage of the Long-Life
+        Practice that Unites the Oral, Treasure and Visionary Teachings
+      base_file: f9164.txt
+      order: 5
+      parent: Practices
+    fEA0E:
+      title: 'Words of Advice on Accomplishing Immortality: An Extremely Concise Daily
+        Practice Uniting the Short Lineages of Amitāyus and Hayagrīva'
+      base_file: fEA0E.txt
+      order: 6
+      parent: Practices
+    f4FD4:
+      title: 'The Vase of Immortal Life: The Long-Life Practice of the Vidyādharas,
+        from the Heart Essence of the Vast Expanse'
+      base_file: f4FD4.txt
+      order: 7
+      parent: Practices
+    f3D44:
+      title: Extemporary Practice of Longevity for Oneself or Others
+      base_file: f3D44.txt
+      order: 8
+      parent: Practices
+    f61A9:
+      title: How to Recite the Dhāraṇīsūtra of Amitāyus
+      base_file: f61A9.txt
+      order: 9
+      parent: Recitation Guides
+    f201A:
+      title: A Daily Long-Life Practice of Amitāyus
+      base_file: f201A.txt
+      order: 10
+      parent: Sādhanas
+    f8763:
+      title: 'The Sublime Path to Immortality: The Quintessence of Profoundly Secret
+        Pith Instructions on Attaining Vajra Longevity'
+      base_file: f8763.txt
+      order: 11
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
